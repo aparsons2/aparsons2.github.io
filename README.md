@@ -1,4 +1,4 @@
-# my work
+# My Work
 
 ## A Ghastly Adventure
 ### Adventure Game
