@@ -12,5 +12,5 @@
 
 ## Trivia Game GUI
 ### Trivia Simulator
-![image](PICTURE)
+![image](AshlynTriviaGameGUIScreenshot.PNG)
 [Take a look at it here!](https://github.com/aparsons2/TriviaGameGUI)
