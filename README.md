@@ -11,6 +11,6 @@
 [Take a look at it here!](https://github.com/aparsons2/MadLibGUI)
 
 ## Trivia Game GUI
-### Trivia Game
+### Trivia Simulator
 ![image](PICTURE)
 [Take a look at it here!](https://github.com/aparsons2/TriviaGameGUI)
